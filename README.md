@@ -1,9 +1,9 @@
-yaserder
+yaserde
 ========
 
 A very simple serialization/deserialization framework
 
-> yaserder = Yet Another Serialization Deserialization framework
+> yaserde = Yet Another SERialization DEserialization framework
 
  * Easy to use
  * Based on ByteBuffer
